@@ -2,7 +2,7 @@ package zigbee
 
 import (
 	"github.com/gogo/protobuf/proto"
-	"github.com/ninjasphere/go-zigbee/otasrvr"
+	"github.com/traliaa/go-zigbee/otasrvr"
 )
 
 type ZStackOta struct {

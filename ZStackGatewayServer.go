@@ -6,7 +6,7 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/gogo/protobuf/proto"
-	"github.com/ninjasphere/go-zigbee/gateway"
+	"github.com/traliaa/go-zigbee/gateway"
 )
 
 type ZStackGateway struct {
