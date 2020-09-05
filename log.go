@@ -1,7 +1,7 @@
 package zigbee
 
 import (
-	"github.com/traliaa/chlab/logger"
+	"github.com/Traliaa/chlab/logger"
 )
 
 var (

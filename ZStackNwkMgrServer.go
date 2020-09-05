@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/Traliaa/go-zigbee/nwkmgr"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/gogo/protobuf/proto"
-	"github.com/traliaa/go-zigbee/nwkmgr"
 )
 
 type ZStackNwkMgr struct {

@@ -4,16 +4,15 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"log"
 	"os"
 	"os/signal"
 
-	zigbee "github.com/traliaa/go-zigbee"
+	zigbee "github.com/Traliaa/go-zigbee"
 
-	"github.com/traliaa/go-zigbee/nwkmgr"
+	"github.com/Traliaa/go-zigbee/nwkmgr"
 
-	"github.com/traliaa/go-zigbee/gateway"
+	"github.com/Traliaa/go-zigbee/gateway"
 )
 
 const (

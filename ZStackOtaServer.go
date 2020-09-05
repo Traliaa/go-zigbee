@@ -1,8 +1,8 @@
 package zigbee
 
 import (
+	"github.com/Traliaa/go-zigbee/otasrvr"
 	"github.com/gogo/protobuf/proto"
-	"github.com/traliaa/go-zigbee/otasrvr"
 )
 
 type ZStackOta struct {
